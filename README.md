@@ -64,7 +64,7 @@ Los datos se guardan en un archivo **JSON** para que el inventario se mantenga e
 
 ---
 
-# Estructura del proyecto
+===== Estructura del proyecto =====
 proyecto_inventario/
 │
 ├── producto.py # Clase Producto
