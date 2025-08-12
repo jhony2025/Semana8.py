@@ -64,18 +64,6 @@ Los datos se guardan en un archivo **JSON** para que el inventario se mantenga e
 
 ---
 
-===== Estructura del proyecto =====
-proyecto_inventario/
-│
-├── producto.py # Clase Producto
-├── inventario.py # Clase Inventario (gestiona la lista de productos)
-├── main.py # Menú interactivo
-├── datos_inventario.json # Archivo donde se guardan los datos
-└── README.md # Documentación del proyecto
-
-
----
-
 # Ejecución
 1. **Clonar el repositorio**:
    ```bash
